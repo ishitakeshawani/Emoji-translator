@@ -2,13 +2,12 @@ import React,{ useState } from "react";
 import "./styles.css";
 
 const emojiDictionary = {
-  "😊": "Smiling",
-  "😳": "disbelief",
-  "😔": "sad",
-  "🥡": "takeout box",
-  "❤️": "love",
-  "😑":
-    "annoyance" /** add some more to show how the app now expands when there's new data */
+  "🎼": "musical score",
+  "🎵": "musical note",
+  "🎸": "guitar",
+  "🧑‍🎤": "singer",
+  "🎙️": "microphone",
+  "📯": "postal horn"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary)
