@@ -7,7 +7,12 @@ const emojiDictionary = {
   "🎸": "guitar",
   "🧑‍🎤": "singer",
   "🎙️": "microphone",
-  "📯": "postal horn"
+  "📯": "postal horn",
+  "🍕": "pizza",
+  "🥪": "sandwich",
+  "🍣": "sushi",
+  "🍩": "doughnut",
+  "🍿": "popcorn"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary)
